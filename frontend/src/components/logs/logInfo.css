@@ -1,0 +1,31 @@
+#logInfo {
+    margin: 10px;
+    background: #fff;
+    padding: 5%;
+    border: #eee solid 1px;
+    border-radius: 6px;
+    box-shadow: var(--shadow);
+}
+
+div.logInfoDesc {
+    width: 100%;
+    border: #eee solid 2px;
+    border-radius: 16px;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: var(--shadow);
+    overflow: auto;
+    padding: 16px;
+}
+
+aside.logStatus {
+    flex-grow: 1;
+    padding: 2px 0;
+    width: 10%;
+    border-radius: 4px;
+    color: var(--red);
+    border: var(--red) solid 2px;
+    text-align: center;
+    background: #fff;
+    margin: 15px;
+}

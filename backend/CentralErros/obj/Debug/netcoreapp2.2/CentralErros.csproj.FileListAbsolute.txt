@@ -1,0 +1,16 @@
+C:\Repo\squad-1-selbetti-1\CentralErros\backend\CentralErros\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Repo\squad-1-selbetti-1\CentralErros\backend\CentralErros\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Repo\squad-1-selbetti-1\CentralErros\backend\CentralErros\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Repo\squad-1-selbetti-1\CentralErros\backend\CentralErros\bin\Debug\netcoreapp2.2\CentralErros.deps.json
+C:\Repo\squad-1-selbetti-1\CentralErros\backend\CentralErros\bin\Debug\netcoreapp2.2\CentralErros.runtimeconfig.json
+C:\Repo\squad-1-selbetti-1\CentralErros\backend\CentralErros\bin\Debug\netcoreapp2.2\CentralErros.runtimeconfig.dev.json
+C:\Repo\squad-1-selbetti-1\CentralErros\backend\CentralErros\bin\Debug\netcoreapp2.2\CentralErros.dll
+C:\Repo\squad-1-selbetti-1\CentralErros\backend\CentralErros\obj\Debug\netcoreapp2.2\CentralErros.csprojAssemblyReference.cache
+C:\Repo\squad-1-selbetti-1\CentralErros\backend\CentralErros\obj\Debug\netcoreapp2.2\CentralErros.AssemblyInfoInputs.cache
+C:\Repo\squad-1-selbetti-1\CentralErros\backend\CentralErros\obj\Debug\netcoreapp2.2\CentralErros.AssemblyInfo.cs
+C:\Repo\squad-1-selbetti-1\CentralErros\backend\CentralErros\obj\Debug\netcoreapp2.2\CentralErros.RazorAssemblyInfo.cache
+C:\Repo\squad-1-selbetti-1\CentralErros\backend\CentralErros\obj\Debug\netcoreapp2.2\CentralErros.RazorAssemblyInfo.cs
+C:\Repo\squad-1-selbetti-1\CentralErros\backend\CentralErros\bin\Debug\netcoreapp2.2\CentralErros.pdb
+C:\Repo\squad-1-selbetti-1\CentralErros\backend\CentralErros\obj\Debug\netcoreapp2.2\CentralErros.RazorTargetAssemblyInfo.cache
+C:\Repo\squad-1-selbetti-1\CentralErros\backend\CentralErros\obj\Debug\netcoreapp2.2\CentralErros.dll
+C:\Repo\squad-1-selbetti-1\CentralErros\backend\CentralErros\obj\Debug\netcoreapp2.2\CentralErros.pdb

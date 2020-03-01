@@ -1,0 +1,10 @@
+#notFoundScreen {
+    margin: 10px;
+    background: #fff;
+    padding: 5%;
+    border: #eee solid 1px;
+    border-radius: 6px;
+    text-align: center;
+    font-size: 3em;
+    box-shadow: var(--shadow);
+}

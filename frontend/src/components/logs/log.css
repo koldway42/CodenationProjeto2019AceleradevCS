@@ -1,0 +1,72 @@
+div.log {
+    height: 150px;
+    display: flex;
+    width: 100%;
+    border: #eee solid 2px;
+    border-radius: 8px;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: var(--shadow);
+    overflow: auto;
+}
+
+div.log .logStatus {
+    flex-grow: 1;
+    padding: 2px 0;
+    border-radius: 4px;
+    color: var(--red);
+    border: var(--red) solid 2px;
+    text-align: center;
+    background: #fff;
+    margin: 15px;
+}
+
+div.log .logCheck {
+    flex-grow: 0;
+    margin-left: 5%;
+}
+
+div.log .logDesc {
+    flex-grow: 10;
+    margin: 0 10%;
+    display: flex;
+    flex-flow: column;
+    align-content: space-between;
+    background: #fff;
+    border: #eee solid 2px;
+    padding: 16px;
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+    text-align: center;
+}
+
+div.log:hover {
+    transition: 0.5s;
+    background: #ccc;
+    cursor: pointer;
+}
+
+@media(max-width: 720px) {
+    div.log {
+        display: flex;
+        flex-flow: column;
+        height: 250px;
+        padding: 24px;
+    }
+
+    div.log .logDesc {
+        margin: 0 3%;
+        width: 100%;
+    }
+
+    div.log .logCheck {
+        flex-grow: 0;
+        margin-left: 0;
+    }
+
+    div.log .logStatus {
+        width: 40%;
+    }
+    
+}
+

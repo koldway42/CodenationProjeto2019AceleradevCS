@@ -1,0 +1,8 @@
+#Homepage {
+    margin: 10px;
+    background: #fff;
+    padding: 5%;
+    border: #eee solid 1px;
+    border-radius: 6px;
+    box-shadow: var(--shadow);
+}
